@@ -13,6 +13,7 @@ public class Main {
         return a;
     }
 
+    //perjgq09jg0q3j54g
     private double calcB(double z){
         double b;
         b = 1 + (Math.pow(z, 2) / (3 + Math.pow(z, 2) / 5));
